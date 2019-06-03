@@ -1,0 +1,13 @@
+
+Target Products:
+
+- Games
+- Automotive, Transportation & Manufacuring
+- Film, Animation & Cinmeatics
+- Architecture, Engineering & Construction
+
+Benefits:
+
+- Build once, deploy anywhere (Industry-leading multiplatform support). https://unity3d.com/unity/features/multiplatform
+- Free to use.
+- Very good and huge documentation/community.
